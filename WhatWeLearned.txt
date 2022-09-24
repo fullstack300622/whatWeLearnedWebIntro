@@ -1,0 +1,31 @@
+what is http protocol 
+http request,
+http response
+Post vs Get
+
+***HTML***
+Document
+Elements
+Paragraph, Heaeding, Text
+Links
+tables
+~lists (Will show in the the next lesson (very simple))
+divs
+Forms
+User input validation
+
+***css***
+How to implement
+Classes
+Block and Inline 
+
+***javascript***
+* HTML "DOM" 
+▪ Variables & types
+▪ Arrays
+▪ Functions
+▪ Events
+▪ DOM Manipulation
+▪ Styles Manipulations
+▪ JSON
+▪ Objects 
